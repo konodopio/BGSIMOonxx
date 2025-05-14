@@ -1,6 +1,6 @@
 -- Combine them under separate threads
 coroutine.wrap(function()
-    loadstring(game:HttpGet("http://vpaste.net/Z6xCp"))()
+    loadstring(game:HttpGet("http://vpaste.net/AWo8x"))()
 end)()
 
 coroutine.wrap(function()
